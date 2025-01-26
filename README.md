@@ -2,7 +2,7 @@
 
 **`Data Platform Engineer | Scaling Biotech Data Solutions with IaC & AWS`**
 
-I'm a Data Platform Engineer specializing in scalable data solutions, infrastructure modernization, and cloud-native technologies, with a focus on highly regulated industries like biotech and pharmaceuticals. I design and optimize platforms that enable advanced analytics and efficient data integration. My career started as a statistical programmer in biotech, and today, I’m dedicated to modernizing data stacks and building automated, compliant systems to support the growing data needs of the industry.
+I'm a Data Platform Engineer specializing in scalable data solutions, infrastructure modernization, and cloud-native technologies, with a focus on highly regulated industries like biotech and pharmaceuticals. I design and optimize platforms that enable advanced analytics and efficient data integration.
 ------
 
 ### Languages and Tools
