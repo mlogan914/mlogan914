@@ -30,6 +30,7 @@ Skills: `Data Engineering`
 `Data Integration`
 `Big Data Solutions`
 `Data Warehousing`
+`Snowflake`
 `Relational Databases`
 `Automation`
 `DevOps`
