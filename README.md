@@ -11,9 +11,6 @@ I'm a Data Platform Engineer specializing in scalable data solutions, infrastruc
   <a href="mailto:melanie.g.logan@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discordapp.com/users/gypsyelder" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 ---
