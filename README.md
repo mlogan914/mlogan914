@@ -2,7 +2,7 @@
 
 **`Engineer. Architect. Optimizer.`**
 
-I'm a Data Platform Engineer specializing in scalable data solutions, infrastructure modernization, and cloud-native technologies, with a focus on highly regulated industries like biotech and pharmaceuticals. I design and optimize platforms that enable advanced analytics and efficient data integration.
+Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melanie-g-logan/" target="_blank">
