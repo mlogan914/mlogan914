@@ -5,6 +5,17 @@
 I'm a Data Platform Engineer specializing in scalable data solutions, infrastructure modernization, and cloud-native technologies, with a focus on highly regulated industries like biotech and pharmaceuticals. I design and optimize platforms that enable advanced analytics and efficient data integration.
 
 ---
+<p align="center">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/melanie-g-logan/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:melanie.g.logan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discordapp.com/users/gypsyelder" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 <div align="center">
  <h3>Languages and Tools</h3>
