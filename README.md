@@ -1,8 +1,21 @@
+
 <!--<a href="https://komarev.com/ghpvc/?username=mlogan914">
   <img align="right" src="https://komarev.com/ghpvc/?username=mlogan914&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+
+<div align="center">
+  <a href="https://github.com/mlogan914?tab=stars">
+    <img src="https://img.shields.io/github/stars/mlogan914?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/mlogan914?tab=followers">
+    <img src="https://img.shields.io/github/followers/mlogan914?style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/mlogan914">
+    <img src="https://komarev.com/ghpvc/?username=mlogan914&color=blue" alt="Profile Views"/>
+  </a>
+</div>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -23,19 +36,6 @@
 
 <!-- <h1 align="center">Melanie Logan</h1> 
 <p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p> -->
-
-<div align="center">
-  <a href="https://github.com/mlogan914?tab=stars">
-    <img src="https://img.shields.io/github/stars/mlogan914?style=social" alt="GitHub Stars"/>
-  </a>
-  <a href="https://github.com/mlogan914?tab=followers">
-    <img src="https://img.shields.io/github/followers/mlogan914?style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/mlogan914">
-    <img src="https://komarev.com/ghpvc/?username=mlogan914&color=blue" alt="Profile Views"/>
-  </a>
-</div>
-<br />
 
 <p align="center">
   <samp><b>Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.</b></samp>
