@@ -1,5 +1,30 @@
-<h1 align="center">Melanie Logan</h1>
-<p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p>
+<!--<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/melanie-g-logan/">Melanie</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <!--<a href="https://www.google.com/search?q=Melanie+Logan">「 Google Me 」</a>
+    <br>-->
+    「 Data Platform Engineer | Engineer. Architect. Optimizer.</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<!--<h1 align="center">Melanie Logan</h1> 
+<p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p> -->
 
 <div align="center">
   <a href="https://github.com/mlogan914?tab=stars">
