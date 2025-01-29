@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/mlogan914?tab=stars">
     <img src="https://img.shields.io/github/stars/mlogan914?style=social" alt="GitHub Stars"/>
   </a>
@@ -15,7 +15,7 @@
   <a href="https://github.com/mlogan914">
     <img src="https://komarev.com/ghpvc/?username=mlogan914&color=blue" alt="Profile Views"/>
   </a>
-</div>
+</div>-->
 
 <!-- Intro  -->
 <h3 align="center">
