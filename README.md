@@ -28,7 +28,7 @@
   <a href="https://github.com/mlogan914?tab=stars">
     <img src="https://img.shields.io/github/stars/mlogan914?style=social" alt="GitHub Stars"/>
   </a>
-  <a href="https://github.com/mlogan914?tab=repositories">
+  <a href="https://github.com/mlogan914?tab=followers">
     <img src="https://img.shields.io/github/followers/mlogan914?style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/mlogan914">
