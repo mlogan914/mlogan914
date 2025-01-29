@@ -12,6 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=mlogan914&color=blue" alt="Profile Views"/>
   </a>
 </div>
+<br />
 
 Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.
 
