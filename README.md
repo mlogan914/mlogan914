@@ -115,7 +115,7 @@
           
 <br />
 
-Skills: `Data Engineering`
+<!-- Skills: `Data Engineering`
 `Infrastructure as Code (IaC)`
 `AWS Cloud Services`
 `CI/CD Pipelines`
@@ -134,7 +134,7 @@ Skills: `Data Engineering`
 `Agile Methodologies`
 `Version Control (Git)`
 `Data Security`
-`Cloud Networking`
+`Cloud Networking` -->
 
 ## 
 <!--
