@@ -1,6 +1,5 @@
-# Melanie Logan
-
-**`Engineer. Architect. Optimizer.`**
+<h1 align="center">Melanie Logan</h1>
+<p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p>
 
 Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.
 
