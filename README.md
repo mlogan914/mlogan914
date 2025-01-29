@@ -39,7 +39,9 @@
 </div>
 <br />
 
-Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.
+<p align="center">
+  <samp><b>Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.</b></samp>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melanie-g-logan/" target="_blank">
