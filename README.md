@@ -1,6 +1,18 @@
 <h1 align="center">Melanie Logan</h1>
 <p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p>
 
+<div align="center">
+  <a href="https://github.com/mlogan914?tab=stars">
+    <img src="https://img.shields.io/github/stars/mlogan914?style=social" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/mlogan914?tab=repositories">
+    <img src="https://img.shields.io/github/followers/mlogan914?style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/mlogan914">
+    <img src="https://komarev.com/ghpvc/?username=mlogan914&color=blue" alt="Profile Views"/>
+  </a>
+</div>
+
 Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.
 
 <p align="center">
