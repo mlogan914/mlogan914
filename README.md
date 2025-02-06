@@ -17,6 +17,8 @@
   </a>
 </div>-->
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mlogan914/sdtm-data-pipeline-aws_project)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
