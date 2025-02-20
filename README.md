@@ -38,7 +38,7 @@
 <p align="center"><i>Data Platform Engineer | Engineer. Architect. Optimizer.</i></p> -->
 
 <p align="center">
-  <samp><b>Data platform engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.</b></samp>
+  <samp><b>Platform Data Engineer specializing in scalable data solutions, Infrastructure as Code (IaC), and platform modernization for highly regulated industries. I design and optimize infrastructure to support advanced analytics and operational efficiency, enabling biotech organizations to scale and modernize platforms for data applications.</b></samp>
 </p>
 
 <!-- <p align="center">
