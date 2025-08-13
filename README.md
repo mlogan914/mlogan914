@@ -28,7 +28,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=Melanie+Logan">「 Google Me 」</a>
     <br> -->
-    「 Data Platform Engineer | Engineer. Architect. Optimizer.</b> 」
+    「 Data Platform Engineer | Systems Thinker. Architect. Optimizer.</b> 」
     <br>
     <br>
   </samp>
